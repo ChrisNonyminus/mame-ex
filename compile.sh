@@ -1,0 +1,1 @@
+make SUBTARGET=same_pc SOURCES=src/mame/drivers/at.cpp,src/mame/drivers/atpci.cpp,src/mame/drivers/ct486.cpp,src/mame/drivers/genpc.cpp,src/mame/drivers/ibmpc.cpp,src/mame/drivers/ibmpcjr.cpp,src/mame/drivers/nforcepc.cpp,src/mame/drivers/pc.cpp,src/mame/drivers/pcipc.cpp,src/mame/drivers/pcxt.cpp,src/mame/drivers/ps2.cpp,src/mame/drivers/tandy1t.cpp $1
